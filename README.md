@@ -1,4 +1,4 @@
-# README - Intégration des données de l'onduleur Solplanet dans Jeedom
+# Intégration des données de l'onduleur Solplanet dans Jeedom
 
 ## Description
 Ce guide explique comment récupérer les données de l'onduleur Solplanet et les stocker dans les variables globales de Jeedom en utilisant un scénario. Vous pouvez suivre ces étapes pour intégrer ces données dans votre système Jeedom.
