@@ -95,5 +95,5 @@ Configurez le déclenchement du scénario en fonction de vos besoins, par exempl
 
 ### Étape 5 : Exécution
 Enregistrez et activez le scénario. Il récupérera les données de l'onduleur Solplanet et les stockera dans les variables globales de Jeedom.
-C'est tout ! Vous avez maintenant réussi à intégrer les données de l'onduleur Solplanet dans Jeedom grâce à ce scénario. Vous pouvez utiliser les variables globales pour surveiller et automatiser votre système en fonction des données de l'onduleur Solplanet.
+C'est tout ! Vous avez maintenant réussi à intégrer les données de l'onduleur Solplanet dans Jeedom grâce à ce scénario. Vous pouvez utiliser les variables globales pour surveiller et automatiser votre système en fonction des données de l'onduleur Solplanet. Vous pouvez maintenant simplement ajouter un virtuel et lire les données de la variable globale dans le virtuel et vous aurez la valeur dans votre dashboard!
 
