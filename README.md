@@ -15,7 +15,7 @@ Ce guide explique comment récupérer les données de l'onduleur Solplanet et le
 2. Creez des variables globales dans Jeedom avec les noms suivants : panneau_err, panneau_pac, panneau_vac, panneau_iac, panneau_vpv, panneau_tmp, panneau_wan, panneau_etd, panneau_eto
 
 ### Étape 2 : Copiez le code PHP
-1. Copiez le code PHP suivant et collez-le dans le scénario que vous avez créé. Assurez-vous de le placer dans une action appropriée qui sera déclenchée selon vos besoins.
+1. Copiez le code PHP suivant et collez-le dans le scénario que vous avez créé. Assurez-vous de le placer dans une action appropriée qui sera déclenchée selon vos besoins. Rien de plus simple non?
 
 ```php
 
